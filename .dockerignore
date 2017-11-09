@@ -1,0 +1,14 @@
+Dockerfile
+.dockerignore
+
+*.sql--
+
+.gitignore
+.git
+
+Makefile
+publish.sh
+README.md
+run-docker.sh
+
+wp-content/uploads
